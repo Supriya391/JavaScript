@@ -1,0 +1,25 @@
+// JavaScript assignment day 2 batch2
+1) program to search for a particular character in a string
+Let str="supriya";
+Console. Log(str);
+Console. Log(str. Indexof(" s "));
+
+2) program to convert minute to second
+Let minute=30;
+Seconds=minutes*60;
+Console. Log("30"+"min"+"into second is"+seconds);
+
+3) program to search for a element in a array of strings
+Var array =[-10,-20,-30,-40,-50];
+Var found=array. Find(function (element){
+Return element>0;});
+Console.Log(found);
+
+4) program to display only elements containing 'a' in them from a array
+Array=["elephant","monkey","dog","cat"];
+Display(array);
+Console. Log(array);
+
+5) print an array in reverse order
+Array=["elephant","monkey","dog","cat"];. reverse ();
+Console. Log(array);
