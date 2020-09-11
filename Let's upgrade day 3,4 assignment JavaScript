@@ -1,0 +1,38 @@
+
+2)  create a web page containing two inp field and button
+A:- write something in the first input
+B:- on click of the button the content of input one should be copied in the second input
+ function dosomething(name){
+     Console.Log("hello"+name);
+     }
+     Dosomething=(name)=>{
+     Console.Log("hello"+name);
+     };
+     Dosomething("suppi");
+     Alert("hello suppi");
+3). Create an array of object with object having the following properties
+A:-name(string) ,age(number), country (string), hobbies (aaray) with string
+B:-write a function to display all the object on the console
+ Let avenger={
+     Name:" suppi",
+     Age:20,
+     Country:" India", 
+      Hobbies:[" reading books"," wondering", watching TV"],
+};
+Console.log(avenger);
+4) A:- write a function to display all the objects having age less than 30
+B:- write a function to display all the objes having country India
+  Let avenger={
+      Name:" suppi",
+       Age:" age<=30",
+       Document.write(",", "country");
+      };
+      Console.log(avenger);
+      For(var I=1;I<=30;I=i+1 ){
+Document.Write(I);
+}
+}
+ Function show_random_number()
+Var random_number=math. Random();
+Alert (random_number);
+}
