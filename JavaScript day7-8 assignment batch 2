@@ -1,0 +1,119 @@
+  a)the product add 6 to 6 products final values of products is 12
+et product I'd() is created check it out
+Let product=[
+{
+I'd:1,
+Name:"kurthi",
+Size:"l",
+Colour: "brown",
+Price:1299,
+Image:"product 1",
+Description;"good",
+},
+{
+I'd:2,
+Name:" black shirt",
+Size:"xl",
+Colour:"black",
+Price:400,
+Image:" product 2" ,
+Description:"good",},
+{
+I'd:3,
+Name:"lehanga",
+Size:"l",
+Colour: "brown",
+Price:1999,
+Image:"product 3",
+Description;"good",
+},
+{
+I'd:4,
+Name:" black shirt",
+Size:"xl",
+Colour:"black",
+Price:400,
+Discription:"good",
+},
+{
+I'd:5,
+Name:"kurthi",
+Size:"l",
+Colour: "yellow",
+Price:1299,
+Image:"product 5",
+Description;"good",
+},
+{
+I'd:6,
+Name:" t shirt",
+Size:"xl",
+Colour:"black",
+Price:400,
+Image:" product 6" ,
+Description:"good",},
+{
+I'd:7,
+Name:"lehanga",
+Size:"l",
+Colour: "brown",
+Price:1999,
+Image:"product 7",
+Description;"good",
+},
+{
+I'd:8,
+Name:" green kurtha",
+Size:"xl",
+Colour:"green",
+Price:4000,
+Image:" product 8" ,
+Description:"good",},
+{
+I'd:9,
+Name:"kurthi",
+Size:"l",
+Colour: "brown",
+Price:1299,
+Image:"product 9",
+Description;"good",
+},
+{
+I'd:10,
+Name:" black shirt",
+Size:"xl",
+Colour:"black",
+Price:400,
+Image:" product 10" ,
+Description:"good",},
+{
+I'd:11,
+Name:"lehanga",
+Size:"l",
+Colour: "brown",
+Price:1999,
+Image:"product 11",
+Description;"good",
+},
+{
+I'd:12,
+Name:"kurthi",
+Size:"l",
+Colour: "yellow",
+Price:1299,
+Image:"product 12",
+Description;"good",
+};
+];
+B) function max(price),
+{
+ Max Price:4000;
+Min price:400;
+}
+Document.write(price);
+C)
+
+
+
+
+
